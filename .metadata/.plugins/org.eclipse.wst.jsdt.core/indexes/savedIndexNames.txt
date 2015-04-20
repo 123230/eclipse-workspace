@@ -1,9 +1,0 @@
-INDEX VERSION 1.3+C:\Users\Ich\Desktop\Webapp Forecast\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2713202796.index
-3615638955.index
-202049413.index
-1037107681.index
-3649278201.index
-1369546415.index
-152527793.index
-1769359911.index
