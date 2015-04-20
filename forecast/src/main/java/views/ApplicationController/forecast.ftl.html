@@ -1,0 +1,24 @@
+<#import "../layout/defaultLayout.ftl.html" as layout> 
+<@layout.myLayout "Forecastliste">    
+
+<#nested/>
+	<table>
+		<thead>
+			<tr>
+				<th>ID</th>
+				<th>Projekt</th>
+				<th>Auftragsstatus</th>
+				
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>${id}</td>
+				<td>${name}</td>
+				<td>${auftragsstatus}</td>
+				
+			</tr>
+		</tbody>
+	</table>
+
+</@layout.myLayout>
